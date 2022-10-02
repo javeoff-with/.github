@@ -1,5 +1,12 @@
 # with
 
+## Installation
+
+```sh
+git clone git@github.com:javeoff-with/with.git
+./postinstall.sh # Not required
+```
+
 ## Contents
 
 - **Social**
