@@ -26,6 +26,7 @@ Project | Description | Contribute
 [With Decentralized](https://github.com/javeoff-with/with-decentralized) | About decentralized ecosystem with theory | [[Contribute]](https://github.com/javeoff-with/with-decentralized/issues)
 [With Frontend](https://github.com/javeoff-with/with-frontend) | About programming theory in frontend system | [[Contribute]](https://github.com/javeoff-with/with-frontend/issues)
 [With Backend](https://github.com/javeoff-with/with-backend) | About programming theory in backend system | [[Contribute]](https://github.com/javeoff-with/with-backend/issues)
+[With Devops](https://github.com/javeoff-with/with-devops) | About devops engineering | [[Contribute]](https://github.com/javeoff-with/with-devops/issues)
 [With Javascript](https://github.com/javeoff-with/with-javascript) | About javascript theory with more examples | [[Contribute]](https://github.com/javeoff-with/with-javascript/issues)
 [With Typescript](https://github.com/javeoff-with/with-typescript) | About typescript theory with more utilities | [[Contribute]](https://github.com/javeoff-with/with-typescript/issues)
 [With React](https://github.com/javeoff-with/with-react) | About react theory with more utils & hooks | [[Contribute]](https://github.com/javeoff-with/with-react/issues)
