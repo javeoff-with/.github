@@ -3,8 +3,7 @@
 ## Installation
 
 ```sh
-git clone git@github.com:javeoff-with/with.git
-./postinstall.sh # Not required
+git clone --recursive git@github.com:javeoff-with/with.git
 ```
 
 ## Contents
